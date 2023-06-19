@@ -4,7 +4,7 @@
 
 ![](https://github.com/anyam/TMP/blob/main/lab2/послед.png)
 
-Диаграмма развертывания:
+Диаграмма развёртывания:
 
 ![](https://github.com/anyam/TMP/blob/main/lab2/разв.png)
 ---
